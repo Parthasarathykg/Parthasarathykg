@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Parthasarathy
+- ⛅️ I'm a Salesforce developer. 
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning web based application development 
-- 💞️ I’m looking to collaborate on developing POC for AI applications.
+- 💞️ I’m looking for an opportunity to collaborate on developing POC for AI applications.
 - 📫 you can reach me on email - parthukg1@gmail.com
 
 <!---
